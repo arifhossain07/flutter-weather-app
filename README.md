@@ -2,6 +2,13 @@
 
 A modern, fast, and beautiful Weather Application built with **Flutter**. This app fetches real-time weather data and accurate forecasts from across the globe using the **Weather API**.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/home_page.png" width="350" title="Home Page">
+  <img src="assets/home_page2.png" width="350" title="Home Page">
+</p>
+
 ### ✨ Features
 
 *   **Real-time Weather:** Get the latest weather updates and current conditions for any city.
@@ -21,11 +28,17 @@ A modern, fast, and beautiful Weather Application built with **Flutter**. This a
 
 ### 🛠️ Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/arifhossain07/flutter-weather-app.git
+   ```
 
-2. Install dependencies:
+2. **Install dependencies:**
+   ```bash
    flutter pub get
+   ```
 
-3. Run the app:
+3. **Run the app:**
+   ```bash
    flutter run
+   ```
